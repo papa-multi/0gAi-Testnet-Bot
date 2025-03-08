@@ -1,3 +1,4 @@
+require('dotenv').config();
 const MultiWalletSwapBot = require('./MultiWalletSwapBot');
 
 (async () => {
